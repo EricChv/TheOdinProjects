@@ -10,7 +10,7 @@ Features:
 - Responsive design: The landing page is designed to be responsive and look great on all devices.
 - Clean and modern design: The layout is clean, modern, and visually appealing.
 - Easy to customize: The HTML and CSS code are well-organized and commented, making it easy to customize.  
-[Link to Landing Page Project](#https://github.com/EricChv/TheOdinProjects/tree/main/Landing%20Page)
+[Link to Landing Page Project](https://github.com/EricChv/TheOdinProjects/tree/main/Landing%20Page)
 
 **Recipes Website**  
 Description: A basic HTML recipe website showcasing various recipes in a simple and easy-to-navigate format.  
