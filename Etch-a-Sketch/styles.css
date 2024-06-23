@@ -8,10 +8,31 @@
     grid-gap: 1em;
     grid-template-rows: repeat(var(--grid-rows), 1fr);
     grid-template-columns: repeat(var(--grid-cols), 1fr);
+    margin: 0 auto;
 }
 
 .grid-item {
     padding: 1em;
     border: 1px solid black;
     text-align: center;
+    transition: background-color 0.1s;
+    cursor: pointer;
+}
+
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #CCCCCC;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #AAAAAA;
 }
