@@ -20,7 +20,7 @@ Skills demonstrated:
 - Basic CSS styling
 - Organizational skills
 - Basic web development workflow  
-[Link to Recipes Website Project](#)
+[Link to Recipes Website Project](https://github.com/EricChv/TheOdinProjects/tree/main/Recipes)
 
 **Rock Paper Scissors Game**  
 Description: A simple rock paper scissors game implemented in JavaScript. The game allows players to play against the computer and keeps track of the score.  
@@ -29,7 +29,7 @@ Features:
 - Keep track of the score
 - Display round results and final result
 - Restart the game  
-[Link to Rock Paper Scissors Game Project](#)
+[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/TheOdinProjects/tree/main/Rock-Paper-Scissors)
 
 #### Getting Started
 To run these projects locally or view their source code, follow these steps:
